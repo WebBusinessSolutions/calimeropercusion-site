@@ -907,7 +907,7 @@ h1, h2, h3, h4, h5, h6 {
 
   .site-blocks-cover h1 {
     font-size: 40px;
-    margin-top: 30px;} }
+    margin-top: 50px;} }
 
 
 @media (min-width: 320px) and (max-width: 395px) {
@@ -919,6 +919,6 @@ h1, h2, h3, h4, h5, h6 {
   
   .site-blocks-cover h1 {
     font-size: 40px;
-    margin-top: 30px; }  }
+    margin-top: 50px; }  }
 
 
